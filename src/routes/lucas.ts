@@ -5,4 +5,4 @@ const router = Router()
 router.get('/', index)
 router.get('/lucas', lucas)
 
-module.exports = router
+export default router

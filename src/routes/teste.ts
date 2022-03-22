@@ -10,4 +10,4 @@ router.get('/bomdia', bomdia)
 
 router.get('/bomdia/:uid', bomdia)
 
-module.exports = router
+export default router
